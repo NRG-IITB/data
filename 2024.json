@@ -404,7 +404,7 @@
     "ID": "S01-2",
     "Constituency": "Srikakulam",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KINJARAPU RAMMOHAN NAIDU",
@@ -805,7 +805,7 @@
     "ID": "S01-3",
     "Constituency": "Vizianagaram",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "APPALANAIDU KALISETTI",
@@ -1248,7 +1248,7 @@
     "ID": "S01-4",
     "Constituency": "Visakhapatnam",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SRIBHARAT MATHUKUMILI",
@@ -2069,7 +2069,7 @@
     "ID": "S01-5",
     "Constituency": "Anakapalle",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "C.M.RAMESH",
@@ -2512,7 +2512,7 @@
     "ID": "S01-6",
     "Constituency": "Kakinada",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "TANGELLA UDAY SRINIVAS (TEA TIME UDAY)",
@@ -3398,7 +3398,7 @@
     "ID": "S01-8",
     "Constituency": "Rajahmundry",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DAGGUBATI PURANDHESHWARI",
@@ -3778,7 +3778,7 @@
     "ID": "S01-9",
     "Constituency": "Narsapuram",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BHUPATHI RAJU SRINIVASA VARMA (B.J.P.VARMA)",
@@ -4347,7 +4347,7 @@
     "ID": "S01-10",
     "Constituency": "Eluru",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PUTTA MAHESH KUMAR",
@@ -4748,7 +4748,7 @@
     "ID": "S01-11",
     "Constituency": "Machilipatnam",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BALASHOWRY VALLABHANENI",
@@ -5191,7 +5191,7 @@
     "ID": "S01-12",
     "Constituency": "Vijayawada",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KESINENI SIVANATH (CHINNI)",
@@ -5676,7 +5676,7 @@
     "ID": "S01-13",
     "Constituency": "Guntur",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR CHANDRA SEKHAR PEMMASANI",
@@ -6434,7 +6434,7 @@
     "ID": "S01-14",
     "Constituency": "Narsaraopet",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "LAVU SRIKRISHNA DEVARAYALU",
@@ -7320,7 +7320,7 @@
     "ID": "S01-16",
     "Constituency": "Ongole",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MAGUNTA SREENIVASULU REDDY",
@@ -7973,7 +7973,7 @@
     "ID": "S01-17",
     "Constituency": "Nandyal",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR BYREDDY SHABARI",
@@ -8752,7 +8752,7 @@
     "ID": "S01-18",
     "Constituency": "Kurnoolu",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BASTIPATI NAGARAJU PANCHALINGALA",
@@ -9279,7 +9279,7 @@
     "ID": "S01-19",
     "Constituency": "Ananthapur",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AMBICA G LAKSHMINARAYANA VALMIKI",
@@ -9848,7 +9848,7 @@
     "ID": "S01-20",
     "Constituency": "Hindupur",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "B K PARTHASARATHI",
@@ -10249,7 +10249,7 @@
     "ID": "S01-21",
     "Constituency": "Kadapa",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "Y. S. AVINASH REDDY",
@@ -10671,7 +10671,7 @@
     "ID": "S01-22",
     "Constituency": "Nellore",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRABHAKAR REDDY VEMIREDDY",
@@ -11704,7 +11704,7 @@
     "ID": "S01-24",
     "Constituency": "Rajampet",
     "State_UT": "Andhra Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "P V MIDHUN REDDY",
@@ -12737,7 +12737,7 @@
     "ID": "S02-1",
     "Constituency": "Arunachal West",
     "State_UT": "Arunachal Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KIREN RIJIJU",
@@ -13037,7 +13037,7 @@
     "ID": "S02-2",
     "Constituency": "Arunachal East",
     "State_UT": "Arunachal Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "TAPIR GAO",
@@ -13671,7 +13671,7 @@
     "ID": "S03-2",
     "Constituency": "Dhubri",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAKIBUL HUSSAIN",
@@ -14072,7 +14072,7 @@
     "ID": "S03-3",
     "Constituency": "Barpeta",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PHANI BHUSAN CHOUDHURY",
@@ -14494,7 +14494,7 @@
     "ID": "S03-4",
     "Constituency": "Darrang-Udalguri",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DILIP SAIKIA",
@@ -14853,7 +14853,7 @@
     "ID": "S03-5",
     "Constituency": "Guwahati",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BIJULI KALITA MEDHI",
@@ -15382,7 +15382,7 @@
     "ID": "S03-7",
     "Constituency": "Karimganj",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KRIPANATH MALLAH",
@@ -16310,7 +16310,7 @@
     "ID": "S03-9",
     "Constituency": "Nagaon",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRADYUT BORDOLOI",
@@ -16711,7 +16711,7 @@
     "ID": "S03-10",
     "Constituency": "Kaziranga",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KAMAKHYA PRASAD TASA",
@@ -17070,7 +17070,7 @@
     "ID": "S03-11",
     "Constituency": "Sonitpur",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RANJIT DUTTA",
@@ -17366,7 +17366,7 @@
     "ID": "S03-12",
     "Constituency": "Lakhimpur",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRADAN BARUAH",
@@ -17683,7 +17683,7 @@
     "ID": "S03-13",
     "Constituency": "Dibrugarh",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SARBANANDA SONOWAL",
@@ -17874,7 +17874,7 @@
     "ID": "S03-14",
     "Constituency": "Jorhat",
     "State_UT": "Assam",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GAURAV GOGOI",
@@ -18086,7 +18086,7 @@
     "ID": "S04-1",
     "Constituency": "Valmiki Nagar",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SUNIL KUMAR",
@@ -18424,7 +18424,7 @@
     "ID": "S04-2",
     "Constituency": "Paschim Champaran",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR.SANJAY JAISWAL",
@@ -18720,7 +18720,7 @@
     "ID": "S04-3",
     "Constituency": "Purvi Champaran",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RADHA MOHAN SINGH",
@@ -19100,7 +19100,7 @@
     "ID": "S04-4",
     "Constituency": "Sheohar",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "LOVELY ANAND",
@@ -19480,7 +19480,7 @@
     "ID": "S04-5",
     "Constituency": "Sitamarhi",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DEVESH CHANDRA THAKUR",
@@ -19902,7 +19902,7 @@
     "ID": "S04-6",
     "Constituency": "Madhubani",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ASHOK KUMAR YADAV",
@@ -20282,7 +20282,7 @@
     "ID": "S04-7",
     "Constituency": "Jhanjharpur",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAMPRIT MANDAL",
@@ -20620,7 +20620,7 @@
     "ID": "S04-8",
     "Constituency": "Supaul",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DILESHWAR KAMAIT",
@@ -21063,7 +21063,7 @@
     "ID": "S04-9",
     "Constituency": "Araria",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRADEEP KUMAR SINGH",
@@ -21380,7 +21380,7 @@
     "ID": "S04-10",
     "Constituency": "Kishanganj",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MOHAMMAD JAWED",
@@ -21760,7 +21760,7 @@
     "ID": "S04-11",
     "Constituency": "Katihar",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "TARIQ ANWAR",
@@ -22077,7 +22077,7 @@
     "ID": "S04-12",
     "Constituency": "Purnia",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJESH RANJAN ALIAS PAPPU YADAV",
@@ -22352,7 +22352,7 @@
     "ID": "S04-13",
     "Constituency": "Madhepura",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DINESH CHANDRA YADAV",
@@ -22648,7 +22648,7 @@
     "ID": "S04-14",
     "Constituency": "Darbhanga",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GOPAL JEE THAKUR",
@@ -22944,7 +22944,7 @@
     "ID": "S04-15",
     "Constituency": "Muzaffarpur",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJ BHUSHAN CHOUDHARY",
@@ -23618,7 +23618,7 @@
     "ID": "S04-16",
     "Constituency": "Vaishali",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VEENA DEVI",
@@ -24420,7 +24420,7 @@
     "ID": "S04-18",
     "Constituency": "Siwan",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VIJAYLAKSHMI DEVI",
@@ -24821,7 +24821,7 @@
     "ID": "S04-19",
     "Constituency": "Maharajganj",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JANARDAN SINGH \"SIGRIWAL\"",
@@ -25054,7 +25054,7 @@
     "ID": "S04-20",
     "Constituency": "Saran",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJIV PRATAP RUDY",
@@ -25898,7 +25898,7 @@
     "ID": "S04-22",
     "Constituency": "Ujiarpur",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NITYANAND RAI",
@@ -26679,7 +26679,7 @@
     "ID": "S04-24",
     "Constituency": "Begusarai",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GIRIRAJ SINGH",
@@ -27017,7 +27017,7 @@
     "ID": "S04-25",
     "Constituency": "Khagaria",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJESH VERMA",
@@ -27401,7 +27401,7 @@
     "ID": "S04-26",
     "Constituency": "Bhagalpur",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AJAY KUMAR MANDAL",
@@ -27781,7 +27781,7 @@
     "ID": "S04-27",
     "Constituency": "Banka",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GIRIDHARI YADAV",
@@ -28119,7 +28119,7 @@
     "ID": "S04-28",
     "Constituency": "Munger",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJIV RANJAN SINGH ALIAS LALAN SINGH",
@@ -28499,7 +28499,7 @@
     "ID": "S04-29",
     "Constituency": "Nalanda",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KAUSHALENDRA KUMAR",
@@ -29236,7 +29236,7 @@
     "ID": "S04-30",
     "Constituency": "Patna Sahib",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAVI SHANKAR PRASAD",
@@ -29721,7 +29721,7 @@
     "ID": "S04-31",
     "Constituency": "Patliputra",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MISHA BHARTI",
@@ -30311,7 +30311,7 @@
     "ID": "S04-32",
     "Constituency": "Arrah",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SUDAMA PRASAD",
@@ -30733,7 +30733,7 @@
     "ID": "S04-33",
     "Constituency": "Buxar",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SUDHAKAR SINGH",
@@ -31493,7 +31493,7 @@
     "ID": "S04-35",
     "Constituency": "Karakat",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJA RAM SINGH FATHER-LATE DIPAN SINGH",
@@ -31894,7 +31894,7 @@
     "ID": "S04-36",
     "Constituency": "Jahanabad",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SURENDRA PRASAD YADAV",
@@ -32337,7 +32337,7 @@
     "ID": "S04-37",
     "Constituency": "Aurangabad",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ABHAY KUMAR SINHA",
@@ -33076,7 +33076,7 @@
     "ID": "S04-39",
     "Constituency": "Nawada",
     "State_UT": "Bihar",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VIVEK THAKUR",
@@ -33647,7 +33647,7 @@
     "ID": "S05-1",
     "Constituency": "North Goa",
     "State_UT": "Goa",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHRIPAD YESSO NAIK",
@@ -33943,7 +33943,7 @@
     "ID": "S05-2",
     "Constituency": "South Goa",
     "State_UT": "Goa",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CAPTAIN VIRIATO FERNANDES",
@@ -34598,7 +34598,7 @@
     "ID": "S06-2",
     "Constituency": "Banaskantha",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GENIBEN NAGAJI THAKOR",
@@ -34978,7 +34978,7 @@
     "ID": "S06-3",
     "Constituency": "Patan",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DABHI BHARATSINHJI SHANKARJI",
@@ -35316,7 +35316,7 @@
     "ID": "S06-4",
     "Constituency": "Mahesana",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "HARIBHAI PATEL",
@@ -35570,7 +35570,7 @@
     "ID": "S06-5",
     "Constituency": "Sabarkantha",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHOBHANABEN MAHENDRASINH BARAIYA",
@@ -35992,7 +35992,7 @@
     "ID": "S06-6",
     "Constituency": "Gandhinagar",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AMIT SHAH",
@@ -36414,7 +36414,7 @@
     "ID": "S06-7",
     "Constituency": "Ahmedabad East",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "HASMUKHBHAI PATEL (H.S.PATEL)",
@@ -37174,7 +37174,7 @@
     "ID": "S06-9",
     "Constituency": "Surendranagar",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CHANDUBHAI CHHAGANBHAI SHIHORA",
@@ -37596,7 +37596,7 @@
     "ID": "S06-10",
     "Constituency": "Rajkot",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PARSHOTTAMBHAI RUPALA",
@@ -37913,7 +37913,7 @@
     "ID": "S06-11",
     "Constituency": "Porbandar",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. MANSUKH MANDAVIYA",
@@ -38293,7 +38293,7 @@
     "ID": "S06-12",
     "Constituency": "Jamnagar",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "POONAMBEN HEMATBHAI MAADAM",
@@ -38715,7 +38715,7 @@
     "ID": "S06-13",
     "Constituency": "Junagadh",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CHUDASAMA RAJESHBHAI NARANBHAI",
@@ -39074,7 +39074,7 @@
     "ID": "S06-14",
     "Constituency": "Amreli",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BHARATBHAI MANUBHAI SUTARIYA",
@@ -39370,7 +39370,7 @@
     "ID": "S06-15",
     "Constituency": "Bhavnagar",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NIMUBEN JAYANTIBHAI BAMBHANIYA (NIMUBEN BAMBHANIYA)",
@@ -39771,7 +39771,7 @@
     "ID": "S06-16",
     "Constituency": "Anand",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MITESH PATEL (BAKABHAI)",
@@ -40046,7 +40046,7 @@
     "ID": "S06-17",
     "Constituency": "Kheda",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DEVUSINH CHAUHAN",
@@ -40426,7 +40426,7 @@
     "ID": "S06-18",
     "Constituency": "Panchmahal",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJPALSINH MAHENDRASINH JADAV",
@@ -41043,7 +41043,7 @@
     "ID": "S06-20",
     "Constituency": "Vadodara",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. HEMANG JOSHI",
@@ -41719,7 +41719,7 @@
     "ID": "S06-22",
     "Constituency": "Bharuch",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MANSUKHBHAI DHANJIBHAI VASAVA",
@@ -42311,7 +42311,7 @@
     "ID": "S06-24",
     "Constituency": "Surat",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MUKESHKUMAR CHANDRAKAANT DALAL",
@@ -42375,7 +42375,7 @@
     "ID": "S06-25",
     "Constituency": "Navsari",
     "State_UT": "Gujarat",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "C R PATIL",
@@ -43494,7 +43494,7 @@
     "ID": "S07-2",
     "Constituency": "Kurukshetra",
     "State_UT": "Haryana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NAVEEN JINDAL",
@@ -44800,7 +44800,7 @@
     "ID": "S07-4",
     "Constituency": "Hisar",
     "State_UT": "Haryana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JAI PARKASH (J P) S/O HARIKESH",
@@ -45516,7 +45516,7 @@
     "ID": "S07-5",
     "Constituency": "Karnal",
     "State_UT": "Haryana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MANOHAR LAL",
@@ -46043,7 +46043,7 @@
     "ID": "S07-6",
     "Constituency": "Sonipat",
     "State_UT": "Haryana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SATPAL BRAHAMCHARI",
@@ -46633,7 +46633,7 @@
     "ID": "S07-7",
     "Constituency": "Rohtak",
     "State_UT": "Haryana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DEEPENDER SINGH HOODA",
@@ -47307,7 +47307,7 @@
     "ID": "S07-8",
     "Constituency": "Bhiwani-Mahendragarh",
     "State_UT": "Haryana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DHARAMBIR SINGH",
@@ -47792,7 +47792,7 @@
     "ID": "S07-9",
     "Constituency": "Gurgaon",
     "State_UT": "Haryana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAO INDERJIT SINGH",
@@ -48403,7 +48403,7 @@
     "ID": "S07-10",
     "Constituency": "Faridabad",
     "State_UT": "Haryana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KRISHAN PAL",
@@ -49035,7 +49035,7 @@
     "ID": "S08-1",
     "Constituency": "Kangra",
     "State_UT": "Himachal Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR RAJEEV BHARDWAJ",
@@ -49373,7 +49373,7 @@
     "ID": "S08-2",
     "Constituency": "Mandi",
     "State_UT": "Himachal Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KANGNA RANAUT",
@@ -49711,7 +49711,7 @@
     "ID": "S08-3",
     "Constituency": "Hamirpur",
     "State_UT": "Himachal Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANURAG SINGH THAKUR",
@@ -50324,7 +50324,7 @@
     "ID": "S10-1",
     "Constituency": "Chikkodi",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRIYANKA SATISH JARKIHOLI",
@@ -50830,7 +50830,7 @@
     "ID": "S10-2",
     "Constituency": "Belgaum",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JAGADISH SHETTAR",
@@ -51231,7 +51231,7 @@
     "ID": "S10-3",
     "Constituency": "Bagalkot",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GADDIGOUDAR. PARVATAGOUDA. CHANDANAGOUDA.",
@@ -52835,7 +52835,7 @@
     "ID": "S10-7",
     "Constituency": "Bidar",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SAGAR ESHWAR KHANDRE",
@@ -53341,7 +53341,7 @@
     "ID": "S10-8",
     "Constituency": "Koppal",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "K. RAJASHEKAR BASAVARAJ HITNAL",
@@ -54206,7 +54206,7 @@
     "ID": "S10-10",
     "Constituency": "Haveri",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BASAVARAJ BOMMAI",
@@ -54628,7 +54628,7 @@
     "ID": "S10-11",
     "Constituency": "Dharwad",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRALHAD JOSHI",
@@ -55113,7 +55113,7 @@
     "ID": "S10-12",
     "Constituency": "Uttara Kannada",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VISHWESHWAR HEGDE KAGERI",
@@ -55514,7 +55514,7 @@
     "ID": "S10-13",
     "Constituency": "Davanagere",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. PRABHA MALLIKARJUN",
@@ -56272,7 +56272,7 @@
     "ID": "S10-14",
     "Constituency": "Shimoga",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "B.Y.RAGHAVENDRA",
@@ -56883,7 +56883,7 @@
     "ID": "S10-15",
     "Constituency": "Udupi Chikmagalur",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KOTA SRINIVAS POOJARY",
@@ -57221,7 +57221,7 @@
     "ID": "S10-16",
     "Constituency": "Hassan",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHREYAS. M. PATEL",
@@ -57664,7 +57664,7 @@
     "ID": "S10-17",
     "Constituency": "Dakshina Kannada",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CAPTAIN BRIJESH CHOWTA",
@@ -58529,7 +58529,7 @@
     "ID": "S10-19",
     "Constituency": "Tumkur",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "V. SOMANNA",
@@ -59035,7 +59035,7 @@
     "ID": "S10-20",
     "Constituency": "Mandya",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "H.D. KUMARASWAMY",
@@ -59457,7 +59457,7 @@
     "ID": "S10-21",
     "Constituency": "Mysore",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "YADUVEER KRISHNADATTA CHAMARAJA WADIYAR",
@@ -60389,7 +60389,7 @@
     "ID": "S10-23",
     "Constituency": "Bangalore Rural",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR C N MANJUNATH",
@@ -60832,7 +60832,7 @@
     "ID": "S10-24",
     "Constituency": "Bangalore North",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHOBHA KARANDLAJE",
@@ -61401,7 +61401,7 @@
     "ID": "S10-25",
     "Constituency": "Bangalore Central",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "P C MOHAN",
@@ -62033,7 +62033,7 @@
     "ID": "S10-26",
     "Constituency": "Bangalore South",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "TEJASVI SURYA",
@@ -62623,7 +62623,7 @@
     "ID": "S10-27",
     "Constituency": "Chikkballapur",
     "State_UT": "Karnataka",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR.K.SUDHAKAR",
@@ -63866,7 +63866,7 @@
     "ID": "S11-1",
     "Constituency": "Kasaragod",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJMOHAN UNNITHAN",
@@ -64183,7 +64183,7 @@
     "ID": "S11-2",
     "Constituency": "Kannur",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "K. SUDHAKARAN",
@@ -64563,7 +64563,7 @@
     "ID": "S11-3",
     "Constituency": "Vadakara",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHAFI PARAMBIL",
@@ -64901,7 +64901,7 @@
     "ID": "S11-4",
     "Constituency": "Wayanad",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAHUL GANDHI",
@@ -65218,7 +65218,7 @@
     "ID": "S11-5",
     "Constituency": "Kozhikode",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "M. K. RAGHAVAN",
@@ -65619,7 +65619,7 @@
     "ID": "S11-6",
     "Constituency": "Malappuram",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "E.T. MOHAMMED BASHEER",
@@ -65915,7 +65915,7 @@
     "ID": "S11-7",
     "Constituency": "Ponnani",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. M.P ABDUSSAMAD SAMADANI",
@@ -66211,7 +66211,7 @@
     "ID": "S11-8",
     "Constituency": "Palakkad",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "V K SREEKANDAN",
@@ -66782,7 +66782,7 @@
     "ID": "S11-10",
     "Constituency": "Thrissur",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SURESH GOPI",
@@ -67099,7 +67099,7 @@
     "ID": "S11-11",
     "Constituency": "Chalakudy",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BENNY BEHANAN",
@@ -67458,7 +67458,7 @@
     "ID": "S11-12",
     "Constituency": "Ernakulam",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "HIBI EDEN",
@@ -67796,7 +67796,7 @@
     "ID": "S11-13",
     "Constituency": "Idukki",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ADV. DEAN KURIAKOSE",
@@ -68071,7 +68071,7 @@
     "ID": "S11-14",
     "Constituency": "Kottayam",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ADV K FRANCIS GEORGE",
@@ -68493,7 +68493,7 @@
     "ID": "S11-15",
     "Constituency": "Alappuzha",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "K. C VENUGOPAL",
@@ -69169,7 +69169,7 @@
     "ID": "S11-17",
     "Constituency": "Pathanamthitta",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANTO ANTONY",
@@ -69465,7 +69465,7 @@
     "ID": "S11-18",
     "Constituency": "Kollam",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "N K PREMACHANDRAN",
@@ -69845,7 +69845,7 @@
     "ID": "S11-19",
     "Constituency": "Attingal",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ADOOR PRAKASH",
@@ -70120,7 +70120,7 @@
     "ID": "S11-20",
     "Constituency": "Thiruvananthapuram",
     "State_UT": "Kerala",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHASHI THAROOR",
@@ -70500,7 +70500,7 @@
     "ID": "S12-1",
     "Constituency": "Morena",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHIVMANGAL SINGH TOMAR",
@@ -71218,7 +71218,7 @@
     "ID": "S12-3",
     "Constituency": "Gwalior",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BHARAT SINGH KUSHWAH",
@@ -71745,7 +71745,7 @@
     "ID": "S12-4",
     "Constituency": "Guna",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JYOTIRADITYA M. SCINDIA",
@@ -72188,7 +72188,7 @@
     "ID": "S12-5",
     "Constituency": "Sagar",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. LATA WANKHEDE",
@@ -72864,7 +72864,7 @@
     "ID": "S12-7",
     "Constituency": "Damoh",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAHUL SINGH LODHI",
@@ -73286,7 +73286,7 @@
     "ID": "S12-8",
     "Constituency": "Khajuraho",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VISHNU DATT SHARMA (V.D.SHARMA)",
@@ -73708,7 +73708,7 @@
     "ID": "S12-9",
     "Constituency": "Satna",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GANESH SINGH",
@@ -74235,7 +74235,7 @@
     "ID": "S12-10",
     "Constituency": "Rewa",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JANARDAN MISHRA",
@@ -74657,7 +74657,7 @@
     "ID": "S12-11",
     "Constituency": "Sidhi",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. RAJESH MISHRA",
@@ -75480,7 +75480,7 @@
     "ID": "S12-13",
     "Constituency": "Jabalpur",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ASHISH DUBEY",
@@ -76429,7 +76429,7 @@
     "ID": "S12-15",
     "Constituency": "Balaghat",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BHARTI PARDHI",
@@ -76830,7 +76830,7 @@
     "ID": "S12-16",
     "Constituency": "Chhindwara",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BUNTY VIVEK SAHU",
@@ -77273,7 +77273,7 @@
     "ID": "S12-17",
     "Constituency": "Hoshangabad",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DARSHAN SINGH CHOUDHARY",
@@ -77653,7 +77653,7 @@
     "ID": "S12-18",
     "Constituency": "Vidisha",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHIVRAJ SINGH CHOUHAN",
@@ -78054,7 +78054,7 @@
     "ID": "S12-19",
     "Constituency": "Bhopal",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ALOK SHARMA",
@@ -78644,7 +78644,7 @@
     "ID": "S12-20",
     "Constituency": "Rajgarh",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RODMAL NAGAR",
@@ -79700,7 +79700,7 @@
     "ID": "S12-23",
     "Constituency": "Mandsour",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SUDHEER GUPTA",
@@ -80651,7 +80651,7 @@
     "ID": "S12-26",
     "Constituency": "Indore",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHANKAR LALWANI",
@@ -81306,7 +81306,7 @@
     "ID": "S12-28",
     "Constituency": "Khandwa",
     "State_UT": "Madhya Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GYANESHWAR PATIL",
@@ -82324,7 +82324,7 @@
     "ID": "S13-2",
     "Constituency": "Dhule",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BACHHAV SHOBHA DINESH",
@@ -82830,7 +82830,7 @@
     "ID": "S13-3",
     "Constituency": "Jalgaon",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SMITA UDAY WAGH",
@@ -83252,7 +83252,7 @@
     "ID": "S13-4",
     "Constituency": "Raver",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KHADSE RAKSHA NIKHIL",
@@ -83884,7 +83884,7 @@
     "ID": "S13-5",
     "Constituency": "Buldhana",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JADHAV PRATAPRAO GANPATRAO",
@@ -84453,7 +84453,7 @@
     "ID": "S13-6",
     "Constituency": "Akola",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANUP SANJAY DHOTRE",
@@ -85801,7 +85801,7 @@
     "ID": "S13-8",
     "Constituency": "Wardha",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AMAR SHARADRAO KALE",
@@ -87149,7 +87149,7 @@
     "ID": "S13-10",
     "Constituency": "Nagpur",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NITIN JAIRAM GADKARI",
@@ -87823,7 +87823,7 @@
     "ID": "S13-11",
     "Constituency": "Bhandara Gondiya",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. PRASHANT YADAORAO PADOLE",
@@ -88667,7 +88667,7 @@
     "ID": "S13-13",
     "Constituency": "Chandrapur",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DHANORKAR PRATIBHA SURESH ALIAS BALUBHAU",
@@ -89110,7 +89110,7 @@
     "ID": "S13-14",
     "Constituency": "Yavatmal-Washim",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SANJAY UTTAMRAO DESHMUKH",
@@ -89595,7 +89595,7 @@
     "ID": "S13-15",
     "Constituency": "Hingoli",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AASHTIKAR PATIL NAGESH BAPURAO",
@@ -90416,7 +90416,7 @@
     "ID": "S13-16",
     "Constituency": "Nanded",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CHAVAN VASANTRAO BALWANTRAO",
@@ -91027,7 +91027,7 @@
     "ID": "S13-17",
     "Constituency": "Parbhani",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JADHAV SANJAY ( BANDU ) HARIBHAU",
@@ -91869,7 +91869,7 @@
     "ID": "S13-18",
     "Constituency": "Jalna",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KALYAN VAIJINATHRAO KALE",
@@ -92543,7 +92543,7 @@
     "ID": "S13-19",
     "Constituency": "Aurangabad",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BHUMARE SANDIPANRAO ASARAM",
@@ -93786,7 +93786,7 @@
     "ID": "S13-21",
     "Constituency": "Nashik",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJABHAU (PARAG) PRAKASH WAJE",
@@ -94903,7 +94903,7 @@
     "ID": "S13-23",
     "Constituency": "Bhiwandi",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BALYA MAMA - SURESH GOPINATH MHATRE",
@@ -95598,7 +95598,7 @@
     "ID": "S13-24",
     "Constituency": "Kalyan",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR SHRIKANT EKNATH SHINDE",
@@ -96314,7 +96314,7 @@
     "ID": "S13-25",
     "Constituency": "Thane",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NARESH GANPAT MHASKE",
@@ -96946,7 +96946,7 @@
     "ID": "S13-26",
     "Constituency": "Mumbai North",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PIYUSH GOYAL",
@@ -97473,7 +97473,7 @@
     "ID": "S13-27",
     "Constituency": "Mumbai North West",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAVINDRA DATTARAM WAIKAR",
@@ -98042,7 +98042,7 @@
     "ID": "S13-28",
     "Constituency": "Mumbai North East",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SANJAY DINA PATIL",
@@ -98590,7 +98590,7 @@
     "ID": "S13-29",
     "Constituency": "Mumbai North Central",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GAIKWAD VARSHA EKNATH",
@@ -99285,7 +99285,7 @@
     "ID": "S13-30",
     "Constituency": "Mumbai South Central",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANIL YESHWANT DESAI",
@@ -99728,7 +99728,7 @@
     "ID": "S13-31",
     "Constituency": "Mumbai South",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ARVIND GANPAT SAWANT",
@@ -100150,7 +100150,7 @@
     "ID": "S13-32",
     "Constituency": "Raigad",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "TATKARE SUNIL DATTATREY",
@@ -100551,7 +100551,7 @@
     "ID": "S13-33",
     "Constituency": "Maval",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHRIRANG APPA CHANDU BARNE",
@@ -101372,7 +101372,7 @@
     "ID": "S13-34",
     "Constituency": "Pune",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MURLIDHAR MOHOL",
@@ -102235,7 +102235,7 @@
     "ID": "S13-35",
     "Constituency": "Baramati",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SUPRIYA SULE",
@@ -103161,7 +103161,7 @@
     "ID": "S13-36",
     "Constituency": "Shirur",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. AMOL RAMSING KOLHE",
@@ -103961,7 +103961,7 @@
     "ID": "S13-37",
     "Constituency": "Ahmednagar",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NILESH DNYANDEV LANKE",
@@ -105162,7 +105162,7 @@
     "ID": "S13-39",
     "Constituency": "Beed",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BAJRANG MANOHAR SONWANE",
@@ -106151,7 +106151,7 @@
     "ID": "S13-40",
     "Constituency": "Osmanabad",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "OMPRAKASH BHUPALSINH ALIAS PAVAN RAJENIMBALKAR",
@@ -108215,7 +108215,7 @@
     "ID": "S13-43",
     "Constituency": "Madha",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MOHITE-PATIL DHAIRYASHEEL RAJSINH",
@@ -109015,7 +109015,7 @@
     "ID": "S13-44",
     "Constituency": "Sangli",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VISHAL (DADA) PRAKASHBAPU PATIL",
@@ -109563,7 +109563,7 @@
     "ID": "S13-45",
     "Constituency": "Satara",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHRIMANT CHH UDAYANRAJE PRATAPSINHAMAHARAJ BHONSLE",
@@ -110027,7 +110027,7 @@
     "ID": "S13-46",
     "Constituency": "Ratnagiri-Sindhudurg",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NARAYAN TATU RANE",
@@ -110344,7 +110344,7 @@
     "ID": "S13-47",
     "Constituency": "Kolhapur",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CHHATRAPATI SHAHU SHAHAJI",
@@ -110955,7 +110955,7 @@
     "ID": "S13-48",
     "Constituency": "Hatkanangale",
     "State_UT": "Maharashtra",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DHAIRYASHEEL SAMBHAJIRAO MANE",
@@ -111650,7 +111650,7 @@
     "ID": "S14-1",
     "Constituency": "Inner Manipur",
     "State_UT": "Manipur",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANGOMCHA BIMOL AKOIJAM",
@@ -112844,7 +112844,7 @@
     "ID": "S17-1",
     "Constituency": "Nagaland",
     "State_UT": "Nagaland",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "S SUPONGMEREN JAMIR",
@@ -113035,7 +113035,7 @@
     "ID": "S18-1",
     "Constituency": "Bargarh",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRADEEP PUROHIT",
@@ -113606,7 +113606,7 @@
     "ID": "S18-3",
     "Constituency": "Sambalpur",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DHARMENDRA PRADHAN",
@@ -114788,7 +114788,7 @@
     "ID": "S18-6",
     "Constituency": "Balasore",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRATAP CHANDRA SARANGI",
@@ -115844,7 +115844,7 @@
     "ID": "S18-9",
     "Constituency": "Dhenkanal",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RUDRA NARAYAN PANY",
@@ -116182,7 +116182,7 @@
     "ID": "S18-10",
     "Constituency": "Bolangir",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SANGEETA KUMARI SINGH DEO",
@@ -116520,7 +116520,7 @@
     "ID": "S18-11",
     "Constituency": "Kalahandi",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MALVIKA DEVI",
@@ -117091,7 +117091,7 @@
     "ID": "S18-13",
     "Constituency": "Kandhamal",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SUKANTA KUMAR PANIGRAHI",
@@ -117391,7 +117391,7 @@
     "ID": "S18-14",
     "Constituency": "Cuttack",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BHARTRUHARI MAHTAB",
@@ -117729,7 +117729,7 @@
     "ID": "S18-15",
     "Constituency": "Kendrapara",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BAIJAYANT PANDA",
@@ -118426,7 +118426,7 @@
     "ID": "S18-17",
     "Constituency": "Puri",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SAMBIT PATRA",
@@ -118701,7 +118701,7 @@
     "ID": "S18-18",
     "Constituency": "Bhubaneswar",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "APARAJITA SARANGI",
@@ -119081,7 +119081,7 @@
     "ID": "S18-19",
     "Constituency": "Aska",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANITA SUBHADARSHINI",
@@ -119356,7 +119356,7 @@
     "ID": "S18-20",
     "Constituency": "Berhampur",
     "State_UT": "Odisha",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. PRADEEP KUMAR PANIGRAHY",
@@ -120074,7 +120074,7 @@
     "ID": "S19-1",
     "Constituency": "Gurdaspur",
     "State_UT": "Punjab",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SUKHJINDER SINGH RANDHAWA",
@@ -120748,7 +120748,7 @@
     "ID": "S19-2",
     "Constituency": "Amritsar",
     "State_UT": "Punjab",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GURJEET SINGH AUJLA",
@@ -121506,7 +121506,7 @@
     "ID": "S19-3",
     "Constituency": "Khadoor Sahib",
     "State_UT": "Punjab",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AMRITPAL SINGH",
@@ -123213,7 +123213,7 @@
     "ID": "S19-6",
     "Constituency": "Anandpur Sahib",
     "State_UT": "Punjab",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MALVINDER SINGH KANG",
@@ -123929,7 +123929,7 @@
     "ID": "S19-7",
     "Constituency": "Ludhiana",
     "State_UT": "Punjab",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AMRINDER SINGH RAJA WARRING",
@@ -126098,7 +126098,7 @@
     "ID": "S19-10",
     "Constituency": "Firozpur",
     "State_UT": "Punjab",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHER SINGH GHUBAYA",
@@ -126835,7 +126835,7 @@
     "ID": "S19-11",
     "Constituency": "Bathinda",
     "State_UT": "Punjab",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "HARSIMRAT KAUR BADAL",
@@ -127341,7 +127341,7 @@
     "ID": "S19-12",
     "Constituency": "Sangrur",
     "State_UT": "Punjab",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GURMEET SINGH MEET HAYER",
@@ -127952,7 +127952,7 @@
     "ID": "S19-13",
     "Constituency": "Patiala",
     "State_UT": "Punjab",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR DHARAMVIRA GANDHI",
@@ -129260,7 +129260,7 @@
     "ID": "S20-3",
     "Constituency": "Churu",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAHUL KASWAN",
@@ -129661,7 +129661,7 @@
     "ID": "S20-4",
     "Constituency": "Jhunjhunu",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BRIJENDRA SINGH OLA",
@@ -129957,7 +129957,7 @@
     "ID": "S20-5",
     "Constituency": "Sikar",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AMRARAM",
@@ -130379,7 +130379,7 @@
     "ID": "S20-6",
     "Constituency": "Jaipur Rural",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAO RAJENDRA SINGH",
@@ -130822,7 +130822,7 @@
     "ID": "S20-7",
     "Constituency": "Jaipur",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MANJU SHARMA",
@@ -131223,7 +131223,7 @@
     "ID": "S20-8",
     "Constituency": "Alwar",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BHUPENDER YADAV",
@@ -132239,7 +132239,7 @@
     "ID": "S20-12",
     "Constituency": "Tonk-Sawai Madhopur",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "HARISH CHANDRA MEENA",
@@ -132598,7 +132598,7 @@
     "ID": "S20-13",
     "Constituency": "Ajmer",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BHAGIRATH CHOUDHARY",
@@ -133024,7 +133024,7 @@
     "ID": "S20-14",
     "Constituency": "Nagaur",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "HANUMAN BENIWAL",
@@ -133341,7 +133341,7 @@
     "ID": "S20-15",
     "Constituency": "Pali",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "P. P. CHAUDHARY",
@@ -133742,7 +133742,7 @@
     "ID": "S20-16",
     "Constituency": "Jodhpur",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GAJENDRA SINGH SHEKHAWAT",
@@ -134185,7 +134185,7 @@
     "ID": "S20-17",
     "Constituency": "Barmer",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "UMMEDA RAM BENIWAL",
@@ -134548,7 +134548,7 @@
     "ID": "S20-18",
     "Constituency": "Jalore",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "LUMBARAM",
@@ -135520,7 +135520,7 @@
     "ID": "S20-21",
     "Constituency": "Chittorgarh",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CHANDRA PRAKASH JOSHI",
@@ -136026,7 +136026,7 @@
     "ID": "S20-22",
     "Constituency": "Rajsamand",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MAHIMA KUMARI MEWAR",
@@ -136364,7 +136364,7 @@
     "ID": "S20-23",
     "Constituency": "Bhilwara",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DAMODAR AGARWAL",
@@ -136702,7 +136702,7 @@
     "ID": "S20-24",
     "Constituency": "Kota",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "OM BIRLA",
@@ -137145,7 +137145,7 @@
     "ID": "S20-25",
     "Constituency": "Jhalawar-Baran",
     "State_UT": "Rajasthan",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DUSHYANT SINGH",
@@ -137420,7 +137420,7 @@
     "ID": "S21-1",
     "Constituency": "Sikkim",
     "State_UT": "Sikkim",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "INDRA HANG SUBBA",
@@ -138264,7 +138264,7 @@
     "ID": "S22-2",
     "Constituency": "Chennai North",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR.KALANIDHI VEERASWAMY",
@@ -139127,7 +139127,7 @@
     "ID": "S22-3",
     "Constituency": "Chennai South",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "T.SUMATHY (ALIAS) THAMIZHACHI THANGAPANDIAN",
@@ -140116,7 +140116,7 @@
     "ID": "S22-4",
     "Constituency": "Chennai Central",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DAYANIDHI MARAN",
@@ -140895,7 +140895,7 @@
     "ID": "S22-5",
     "Constituency": "Sriperumbudur",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "T R BAALU",
@@ -142033,7 +142033,7 @@
     "ID": "S22-7",
     "Constituency": "Arakkonam",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "S JAGATHRATCHAKAN",
@@ -142707,7 +142707,7 @@
     "ID": "S22-8",
     "Constituency": "Vellore",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DM KATHIR ANAND",
@@ -143486,7 +143486,7 @@
     "ID": "S22-9",
     "Constituency": "Krishnagiri",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GOPINATH K",
@@ -144181,7 +144181,7 @@
     "ID": "S22-10",
     "Constituency": "Dharmapuri",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MANI. A.",
@@ -144813,7 +144813,7 @@
     "ID": "S22-11",
     "Constituency": "Tiruvannamalai",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANNADURAI, C.N.",
@@ -145592,7 +145592,7 @@
     "ID": "S22-12",
     "Constituency": "Arani",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "THARANIVENTHAN M S",
@@ -146814,7 +146814,7 @@
     "ID": "S22-14",
     "Constituency": "Kallakurichi",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MALAIYARASAN D",
@@ -147383,7 +147383,7 @@
     "ID": "S22-15",
     "Constituency": "Salem",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SELVAGANAPATHI T M",
@@ -148036,7 +148036,7 @@
     "ID": "S22-16",
     "Constituency": "Namakkal",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MATHESWARAN V S",
@@ -149004,7 +149004,7 @@
     "ID": "S22-17",
     "Constituency": "Erode",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "K.E.PRAKASH",
@@ -149783,7 +149783,7 @@
     "ID": "S22-18",
     "Constituency": "Tiruppur",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SUBBARAYAN, K.",
@@ -150648,7 +150648,7 @@
     "ID": "S22-20",
     "Constituency": "Coimbatore",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "GANAPATHY RAJKUMAR P",
@@ -151553,7 +151553,7 @@
     "ID": "S22-21",
     "Constituency": "Pollachi",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ESWARASAMY K",
@@ -151996,7 +151996,7 @@
     "ID": "S22-22",
     "Constituency": "Dindigul",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SACHITHANANTHAM R",
@@ -152439,7 +152439,7 @@
     "ID": "S22-23",
     "Constituency": "Karur",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JOTHIMANI. S",
@@ -153701,7 +153701,7 @@
     "ID": "S22-24",
     "Constituency": "Tiruchirappalli",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DURAI VAIKO",
@@ -154564,7 +154564,7 @@
     "ID": "S22-25",
     "Constituency": "Perambalur",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ARUN NEHRU",
@@ -155175,7 +155175,7 @@
     "ID": "S22-26",
     "Constituency": "Cuddalore",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "M.K. VISHNUPRASAD",
@@ -156124,7 +156124,7 @@
     "ID": "S22-28",
     "Constituency": "Mayiladuthurai",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SUDHA R",
@@ -156926,7 +156926,7 @@
     "ID": "S22-30",
     "Constituency": "Thanjavur",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MURASOLI S",
@@ -157306,7 +157306,7 @@
     "ID": "S22-31",
     "Constituency": "Sivaganga",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KARTI P CHIDAMBARAM",
@@ -157854,7 +157854,7 @@
     "ID": "S22-32",
     "Constituency": "Madurai",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VENKATESAN S",
@@ -158423,7 +158423,7 @@
     "ID": "S22-33",
     "Constituency": "Theni",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "THANGA TAMILSELVAN",
@@ -159076,7 +159076,7 @@
     "ID": "S22-34",
     "Constituency": "Virudhunagar",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MANICKAM TAGORE B",
@@ -159771,7 +159771,7 @@
     "ID": "S22-35",
     "Constituency": "Ramanathapuram",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NAVASKANI K",
@@ -160424,7 +160424,7 @@
     "ID": "S22-36",
     "Constituency": "Thoothukkudi",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KANIMOZHI KARUNANIDHI",
@@ -161583,7 +161583,7 @@
     "ID": "S22-38",
     "Constituency": "Tirunelveli",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ROBERT BRUCE C",
@@ -162194,7 +162194,7 @@
     "ID": "S22-39",
     "Constituency": "Kanniyakumari",
     "State_UT": "Tamil Nadu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VIJAYAKUMAR (Alias) VIJAY VASANTH",
@@ -162784,7 +162784,7 @@
     "ID": "S23-1",
     "Constituency": "Tripura West",
     "State_UT": "Tripura",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BIPLAB KUMAR DEB",
@@ -163418,7 +163418,7 @@
     "ID": "S24-1",
     "Constituency": "Saharanpur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "IMRAN MASOOD",
@@ -163756,7 +163756,7 @@
     "ID": "S24-2",
     "Constituency": "Kairana",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "IQRA CHOUDHARY",
@@ -164178,7 +164178,7 @@
     "ID": "S24-3",
     "Constituency": "Muzaffarnagar",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "HARENDRA SINGH MALIK",
@@ -164537,7 +164537,7 @@
     "ID": "S24-4",
     "Constituency": "Bijnor",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CHANDAN CHAUHAN",
@@ -165150,7 +165150,7 @@
     "ID": "S24-6",
     "Constituency": "Moradabad",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RUCHI VIRA",
@@ -165530,7 +165530,7 @@
     "ID": "S24-7",
     "Constituency": "Rampur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MOHIBBULLAH",
@@ -165784,7 +165784,7 @@
     "ID": "S24-8",
     "Constituency": "Sambhal",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ZIA UR REHMAN",
@@ -166164,7 +166164,7 @@
     "ID": "S24-9",
     "Constituency": "Amroha",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KANWAR SINGH TANWAR",
@@ -166544,7 +166544,7 @@
     "ID": "S24-10",
     "Constituency": "Meerut",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ARUN GOVIL",
@@ -166840,7 +166840,7 @@
     "ID": "S24-11",
     "Constituency": "Baghpat",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR RAJKUMAR SANGWAN",
@@ -167115,7 +167115,7 @@
     "ID": "S24-12",
     "Constituency": "Ghaziabad",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ATUL GARG",
@@ -167537,7 +167537,7 @@
     "ID": "S24-13",
     "Constituency": "Gautam Buddha Nagar",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. MAHESH SHARMA",
@@ -168234,7 +168234,7 @@
     "ID": "S24-15",
     "Constituency": "Aligarh",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SATISH KUMAR GAUTAM",
@@ -168994,7 +168994,7 @@
     "ID": "S24-17",
     "Constituency": "Mathura",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "HEMAMALINI DHARMENDRA DEOL",
@@ -169796,7 +169796,7 @@
     "ID": "S24-19",
     "Constituency": "Fatehpur Sikri",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJKUMAR CHAHAR",
@@ -170113,7 +170113,7 @@
     "ID": "S24-20",
     "Constituency": "Firozabad",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AKSHAYA YADAV",
@@ -170388,7 +170388,7 @@
     "ID": "S24-21",
     "Constituency": "Mainpuri",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DIMPLE YADAV",
@@ -170684,7 +170684,7 @@
     "ID": "S24-22",
     "Constituency": "Etah",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DEVESH SHAKYA",
@@ -171022,7 +171022,7 @@
     "ID": "S24-23",
     "Constituency": "Badaun",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ADITYA YADAV",
@@ -171381,7 +171381,7 @@
     "ID": "S24-24",
     "Constituency": "Aonla",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NEERAJ MAURYA",
@@ -171698,7 +171698,7 @@
     "ID": "S24-25",
     "Constituency": "Bareilly",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CHHATRA PAL SINGH GANGWAR",
@@ -172099,7 +172099,7 @@
     "ID": "S24-26",
     "Constituency": "Pilibhit",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JITIN PRASADA",
@@ -172775,7 +172775,7 @@
     "ID": "S24-28",
     "Constituency": "Kheri",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "UTKARSH VERMA 'MADHUR'",
@@ -173134,7 +173134,7 @@
     "ID": "S24-29",
     "Constituency": "Dhaurahra",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANAND BHADAURIYA",
@@ -173514,7 +173514,7 @@
     "ID": "S24-30",
     "Constituency": "Sitapur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAKESH RATHOR",
@@ -174507,7 +174507,7 @@
     "ID": "S24-33",
     "Constituency": "Unnao",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SWAMI SACHCHIDANAND HARI SAKSHI",
@@ -175162,7 +175162,7 @@
     "ID": "S24-35",
     "Constituency": "Lucknow",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJ NATH SINGH",
@@ -175500,7 +175500,7 @@
     "ID": "S24-36",
     "Constituency": "Rae Bareli",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAHUL GANDHI",
@@ -175796,7 +175796,7 @@
     "ID": "S24-37",
     "Constituency": "Amethi",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KISHORI LAL",
@@ -176197,7 +176197,7 @@
     "ID": "S24-38",
     "Constituency": "Sultanpur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAMBHUAL NISHAD",
@@ -176514,7 +176514,7 @@
     "ID": "S24-39",
     "Constituency": "Pratapgarh",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHIV PAL SINGH PATEL (DR. S P SINGH)",
@@ -177188,7 +177188,7 @@
     "ID": "S24-40",
     "Constituency": "Farrukhabad",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MUKESH RAJPUT",
@@ -177763,7 +177763,7 @@
     "ID": "S24-42",
     "Constituency": "Kannauj",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AKHILESH YADAV",
@@ -178206,7 +178206,7 @@
     "ID": "S24-43",
     "Constituency": "Kanpur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAMESH AWASTHI",
@@ -178565,7 +178565,7 @@
     "ID": "S24-44",
     "Constituency": "Akbarpur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DEVENDRA SINGH ALIAS BHOLE SINGH",
@@ -179136,7 +179136,7 @@
     "ID": "S24-46",
     "Constituency": "Jhansi",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANURAG SHARMA",
@@ -179474,7 +179474,7 @@
     "ID": "S24-47",
     "Constituency": "Hamirpur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AJENDRA SINGH LODHI",
@@ -179833,7 +179833,7 @@
     "ID": "S24-48",
     "Constituency": "Banda",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KRISHNA DEVI SHIVSHANKER PATEL",
@@ -180213,7 +180213,7 @@
     "ID": "S24-49",
     "Constituency": "Fatehpur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NARESH CHANDRA UTTAM PATEL",
@@ -180994,7 +180994,7 @@
     "ID": "S24-51",
     "Constituency": "Phulpur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRAVEEN PATEL",
@@ -181437,7 +181437,7 @@
     "ID": "S24-52",
     "Constituency": "Allahabad",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "UJJWAL RAMAN SINGH",
@@ -182260,7 +182260,7 @@
     "ID": "S24-54",
     "Constituency": "Faizabad",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AWADHESH PRASAD",
@@ -182661,7 +182661,7 @@
     "ID": "S24-55",
     "Constituency": "Ambedkar Nagar",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "LALJI VERMA",
@@ -183295,7 +183295,7 @@
     "ID": "S24-57",
     "Constituency": "Kaiserganj",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KARAN BHUSHAN SINGH",
@@ -183507,7 +183507,7 @@
     "ID": "S24-58",
     "Constituency": "Shrawasti",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAM SHIROMANI VERMA",
@@ -183887,7 +183887,7 @@
     "ID": "S24-59",
     "Constituency": "Gonda",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KIRTIVARDHAN SINGH",
@@ -184183,7 +184183,7 @@
     "ID": "S24-60",
     "Constituency": "Domariyaganj",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JAGDAMBIKA PAL",
@@ -184437,7 +184437,7 @@
     "ID": "S24-61",
     "Constituency": "Basti",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAM PRASAD CHAUDHARY",
@@ -184754,7 +184754,7 @@
     "ID": "S24-62",
     "Constituency": "Sant Kabir Nagar",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "LAXMIKANT PAPPU NISHAD",
@@ -185113,7 +185113,7 @@
     "ID": "S24-63",
     "Constituency": "Maharajganj",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PANKAJ CHAUDHARY",
@@ -185409,7 +185409,7 @@
     "ID": "S24-64",
     "Constituency": "Gorakhpur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAVINDRA SHUKLA ALIAS RAVI KISHAN",
@@ -185810,7 +185810,7 @@
     "ID": "S24-65",
     "Constituency": "Kushi Nagar",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VIJAY KUMAR DUBAY",
@@ -186127,7 +186127,7 @@
     "ID": "S24-66",
     "Constituency": "Deoria",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHASHANK MANI",
@@ -186973,7 +186973,7 @@
     "ID": "S24-69",
     "Constituency": "Azamgarh",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DHARMENDRA YADAV",
@@ -187290,7 +187290,7 @@
     "ID": "S24-70",
     "Constituency": "Ghosi",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJEEV RAI",
@@ -188006,7 +188006,7 @@
     "ID": "S24-71",
     "Constituency": "Salempur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAMASHANKAR RAJBHAR",
@@ -188323,7 +188323,7 @@
     "ID": "S24-72",
     "Constituency": "Ballia",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SANATAN PANDEY",
@@ -188724,7 +188724,7 @@
     "ID": "S24-73",
     "Constituency": "Jaunpur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BABU SINGH KUSHWAHA",
@@ -189526,7 +189526,7 @@
     "ID": "S24-75",
     "Constituency": "Ghazipur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AFZAL ANSARI",
@@ -189864,7 +189864,7 @@
     "ID": "S24-76",
     "Constituency": "Chandauli",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BIRENDRA SINGH",
@@ -190202,7 +190202,7 @@
     "ID": "S24-77",
     "Constituency": "Varanasi",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NARENDRA MODI",
@@ -190477,7 +190477,7 @@
     "ID": "S24-78",
     "Constituency": "Bhadohi",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR. VINOD KUMAR BIND",
@@ -190815,7 +190815,7 @@
     "ID": "S24-79",
     "Constituency": "Mirzapur",
     "State_UT": "Uttar Pradesh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANUPRIYA PATEL",
@@ -192694,7 +192694,7 @@
     "ID": "S25-4",
     "Constituency": "Darjeeling",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAJU BISTA",
@@ -193116,7 +193116,7 @@
     "ID": "S25-5",
     "Constituency": "Raiganj",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KARTICK CHANDRA PAUL",
@@ -193664,7 +193664,7 @@
     "ID": "S25-6",
     "Constituency": "Balurghat",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SUKANTA MAJUMDAR",
@@ -194065,7 +194065,7 @@
     "ID": "S25-7",
     "Constituency": "Maldaha Uttar",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KHAGEN MURMU",
@@ -194508,7 +194508,7 @@
     "ID": "S25-8",
     "Constituency": "Maldaha Dakshin",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ISHA KHAN CHOUDHURY",
@@ -194993,7 +194993,7 @@
     "ID": "S25-9",
     "Constituency": "Jangipur",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KHALILUR RAHAMAN",
@@ -195415,7 +195415,7 @@
     "ID": "S25-10",
     "Constituency": "Baharampur",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PATHAN YUSUF",
@@ -195858,7 +195858,7 @@
     "ID": "S25-11",
     "Constituency": "Murshidabad",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ABU TAHER KHAN",
@@ -196217,7 +196217,7 @@
     "ID": "S25-12",
     "Constituency": "Krishnanagar",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MAHUA MOITRA",
@@ -197294,7 +197294,7 @@
     "ID": "S25-15",
     "Constituency": "Barrackpur",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PARTHA BHOWMICK",
@@ -197716,7 +197716,7 @@
     "ID": "S25-16",
     "Constituency": "Dum Dum",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SOUGATA RAY",
@@ -198138,7 +198138,7 @@
     "ID": "S25-17",
     "Constituency": "Barasat",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "Dr. KAKOLI GHOSH DASTIDAR",
@@ -198522,7 +198522,7 @@
     "ID": "S25-18",
     "Constituency": "Basirhat",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SK NURUL ISLAM",
@@ -199708,7 +199708,7 @@
     "ID": "S25-21",
     "Constituency": "Diamond Harbour",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ABHISHEK BANERJEE",
@@ -200088,7 +200088,7 @@
     "ID": "S25-22",
     "Constituency": "Jadavpur",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SAYANI GHOSH",
@@ -200552,7 +200552,7 @@
     "ID": "S25-23",
     "Constituency": "Kolkata Dakshin",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MALA ROY",
@@ -201037,7 +201037,7 @@
     "ID": "S25-24",
     "Constituency": "Kolkata Uttar",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BANDYOPADHYAY SUDIP",
@@ -201480,7 +201480,7 @@
     "ID": "S25-25",
     "Constituency": "Howrah",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRASUN BANERJEE",
@@ -201902,7 +201902,7 @@
     "ID": "S25-26",
     "Constituency": "Uluberia",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SAJDA AHMED",
@@ -202282,7 +202282,7 @@
     "ID": "S25-27",
     "Constituency": "Sreerampur",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KALYAN BANERJEE",
@@ -202641,7 +202641,7 @@
     "ID": "S25-28",
     "Constituency": "Hooghly",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RACHNA BANERJEE",
@@ -203359,7 +203359,7 @@
     "ID": "S25-30",
     "Constituency": "Tamluk",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ABHIJIT GANGOPADHYAY",
@@ -203676,7 +203676,7 @@
     "ID": "S25-31",
     "Constituency": "Kanthi",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ADHIKARI SOUMENDU",
@@ -203993,7 +203993,7 @@
     "ID": "S25-32",
     "Constituency": "Ghatal",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ADHIKARI DEEPAK (DEV)",
@@ -204669,7 +204669,7 @@
     "ID": "S25-34",
     "Constituency": "Medinipur",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JUNE MALIAH",
@@ -204986,7 +204986,7 @@
     "ID": "S25-35",
     "Constituency": "Purulia",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JYOTIRMAY SINGH MAHATO",
@@ -205366,7 +205366,7 @@
     "ID": "S25-36",
     "Constituency": "Bankura",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ARUP CHAKRABORTY",
@@ -206317,7 +206317,7 @@
     "ID": "S25-39",
     "Constituency": "Bardhaman-Durgapur",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AZAD KIRTI JHA",
@@ -206613,7 +206613,7 @@
     "ID": "S25-40",
     "Constituency": "Asansol",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SHATRUGHAN PRASAD SINHA",
@@ -207184,7 +207184,7 @@
     "ID": "S25-42",
     "Constituency": "Birbhum",
     "State_UT": "West Bengal",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SATABDI ROY",
@@ -208809,7 +208809,7 @@
     "ID": "S26-4",
     "Constituency": "Korba",
     "State_UT": "Chhattisgarh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JYOTSNA CHARANDAS MAHANT",
@@ -209504,7 +209504,7 @@
     "ID": "S26-5",
     "Constituency": "Bilaspur",
     "State_UT": "Chhattisgarh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "TOKHAN SAHU",
@@ -210409,7 +210409,7 @@
     "ID": "S26-6",
     "Constituency": "Rajnandgaon",
     "State_UT": "Chhattisgarh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SANTOSH PANDEY",
@@ -210852,7 +210852,7 @@
     "ID": "S26-7",
     "Constituency": "Durg",
     "State_UT": "Chhattisgarh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VIJAY BAGHEL",
@@ -211505,7 +211505,7 @@
     "ID": "S26-8",
     "Constituency": "Raipur",
     "State_UT": "Chhattisgarh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BRIJMOHAN AGRAWAL",
@@ -212431,7 +212431,7 @@
     "ID": "S26-9",
     "Constituency": "Mahasamund",
     "State_UT": "Chhattisgarh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ROOP KUMARI CHOUDHARY",
@@ -214541,7 +214541,7 @@
     "ID": "S27-3",
     "Constituency": "Godda",
     "State_UT": "Jharkhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "NISHIKANT DUBEY",
@@ -215068,7 +215068,7 @@
     "ID": "S27-4",
     "Constituency": "Chatra",
     "State_UT": "Jharkhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KALI CHARAN SINGH",
@@ -215658,7 +215658,7 @@
     "ID": "S27-5",
     "Constituency": "Kodarma",
     "State_UT": "Jharkhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANNPURNA DEVI",
@@ -216101,7 +216101,7 @@
     "ID": "S27-6",
     "Constituency": "Giridih",
     "State_UT": "Jharkhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CHANDRA PRAKASH CHOUDHARY",
@@ -216565,7 +216565,7 @@
     "ID": "S27-7",
     "Constituency": "Dhanbad",
     "State_UT": "Jharkhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DULU MAHATO",
@@ -217218,7 +217218,7 @@
     "ID": "S27-8",
     "Constituency": "Ranchi",
     "State_UT": "Jharkhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SANJAY SETH",
@@ -217913,7 +217913,7 @@
     "ID": "S27-9",
     "Constituency": "Jamshedpur",
     "State_UT": "Jharkhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BIDYUT BARAN MAHATO",
@@ -220023,7 +220023,7 @@
     "ID": "S27-14",
     "Constituency": "Hazaribagh",
     "State_UT": "Jharkhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MANISH JAISWAL",
@@ -220508,7 +220508,7 @@
     "ID": "S28-1",
     "Constituency": "Tehri Garhwal",
     "State_UT": "Uttarakhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MALA RAJYA LAKSHMI SHAH",
@@ -220867,7 +220867,7 @@
     "ID": "S28-2",
     "Constituency": "Garhwal",
     "State_UT": "Uttarakhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ANIL BALUNI",
@@ -221543,7 +221543,7 @@
     "ID": "S28-4",
     "Constituency": "Nainital-Udhamsingh Nagar",
     "State_UT": "Uttarakhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AJAY BHATT",
@@ -221881,7 +221881,7 @@
     "ID": "S28-5",
     "Constituency": "Haridwar",
     "State_UT": "Uttarakhand",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "TRIVENDRA SINGH RAWAT",
@@ -223693,7 +223693,7 @@
     "ID": "S29-3",
     "Constituency": "Karimnagar",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BANDI SANJAY KUMAR",
@@ -224409,7 +224409,7 @@
     "ID": "S29-4",
     "Constituency": "Nizamabad",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ARVIND DHARMAPURI",
@@ -225146,7 +225146,7 @@
     "ID": "S29-5",
     "Constituency": "Zahirabad",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "SURESH KUMAR SHETKAR",
@@ -225673,7 +225673,7 @@
     "ID": "S29-6",
     "Constituency": "Medak",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MADHAVANENI RAGHUNANDAN RAO",
@@ -226725,7 +226725,7 @@
     "ID": "S29-7",
     "Constituency": "Malkajgiri",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "EATALA RAJENDER",
@@ -227315,7 +227315,7 @@
     "ID": "S29-8",
     "Constituency": "Secunderabad",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "G. KISHAN REDDY",
@@ -228388,7 +228388,7 @@
     "ID": "S29-9",
     "Constituency": "Hyderabad",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ASADUDDIN OWAISI",
@@ -229144,7 +229144,7 @@
     "ID": "S29-10",
     "Constituency": "Chevella",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KONDA VISHWESHWAR REDDY",
@@ -230175,7 +230175,7 @@
     "ID": "S29-11",
     "Constituency": "Mahbubnagar",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ARUNA. D. K",
@@ -231481,7 +231481,7 @@
     "ID": "S29-13",
     "Constituency": "Nalgonda",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KUNDURU RAGHUVEER",
@@ -232071,7 +232071,7 @@
     "ID": "S29-14",
     "Constituency": "Bhongir",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "CHAMALA KIRAN KUMAR REDDY",
@@ -234639,7 +234639,7 @@
     "ID": "S29-17",
     "Constituency": "Khammam",
     "State_UT": "Telangana",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAMASAHAYAM RAGHURAM REDDY",
@@ -235502,7 +235502,7 @@
     "ID": "U01-1",
     "Constituency": "Andaman and Nicobar Islands",
     "State_UT": "Andaman & Nicobar Islands",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BISHNU PADA RAY",
@@ -235882,7 +235882,7 @@
     "ID": "U02-1",
     "Constituency": "Chandigarh",
     "State_UT": "Chandigarh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MANISH TEWARI",
@@ -236409,7 +236409,7 @@
     "ID": "U03-1",
     "Constituency": "Daman and Diu",
     "State_UT": "Dadra & Nagar Haveli and Daman & Diu",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PATEL UMESHBHAI BABUBHAI",
@@ -236917,7 +236917,7 @@
     "ID": "U05-1",
     "Constituency": "Chandni Chowk",
     "State_UT": "NCT OF Delhi",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "PRAVEEN KHANDELWAL",
@@ -237570,7 +237570,7 @@
     "ID": "U05-2",
     "Constituency": "North-East Delhi",
     "State_UT": "NCT OF Delhi",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MANOJ TIWARI",
@@ -238286,7 +238286,7 @@
     "ID": "U05-3",
     "Constituency": "East Delhi",
     "State_UT": "NCT OF Delhi",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "HARSH MALHOTRA",
@@ -238834,7 +238834,7 @@
     "ID": "U05-4",
     "Constituency": "New Delhi",
     "State_UT": "NCT OF Delhi",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "BANSURI SWARAJ",
@@ -239993,7 +239993,7 @@
     "ID": "U05-6",
     "Constituency": "West Delhi",
     "State_UT": "NCT OF Delhi",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "KAMALJEET SEHRAWAT",
@@ -240625,7 +240625,7 @@
     "ID": "U05-7",
     "Constituency": "South Delhi",
     "State_UT": "NCT OF Delhi",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "RAMVIR SINGH BIDHURI",
@@ -241427,7 +241427,7 @@
     "ID": "U07-1",
     "Constituency": "Puducherry",
     "State_UT": "Puducherry",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "VE. VAITHILINGAM",
@@ -242101,7 +242101,7 @@
     "ID": "U08-1",
     "Constituency": "Baramulla",
     "State_UT": "Jammu and Kashmir",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "ABDUL RASHID SHEIKH",
@@ -242691,7 +242691,7 @@
     "ID": "U08-2",
     "Constituency": "Srinagar",
     "State_UT": "Jammu and Kashmir",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "AGA SYED RUHULLAH MEHDI",
@@ -243323,7 +243323,7 @@
     "ID": "U08-3",
     "Constituency": "Anantnag-Rajouri",
     "State_UT": "Jammu and Kashmir",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MIAN ALTAF AHMAD",
@@ -243871,7 +243871,7 @@
     "ID": "U08-4",
     "Constituency": "Udhampur",
     "State_UT": "Jammu and Kashmir",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "DR JITENDRA SINGH",
@@ -244251,7 +244251,7 @@
     "ID": "U08-5",
     "Constituency": "Jammu",
     "State_UT": "Jammu and Kashmir",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "JUGAL KISHORE",
@@ -244841,7 +244841,7 @@
     "ID": "U09-1",
     "Constituency": "Ladakh",
     "State_UT": "Ladakh",
-    "Category": "GEN",
+    "Category": "GENERAL",
     "Candidates": [
       {
         "Candidate Name": "MOHMAD HANEEFA",
